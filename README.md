@@ -8,7 +8,7 @@ Esta aplicación permite a los usuarios visualizar rápidamente la disponibilida
 ### Funcionalidades principales:
 * **Monitorización en tiempo real:** Consulta de datos actualizados desde la API oficial (GBFS).
 * **Visualización gráfica:**
-    * *Pantalla Principal:* Ranking (Top 5) de estaciones con más bicicletas disponibles.
+    * *Pantalla Principal:* Top 5 de estaciones con más bicicletas disponibles.
     * *Detalle de Estación:* Distribución de ocupación (Mecánicas vs Eléctricas vs Libres).
 * **Asistente de decisión:** Indicador visual ("Sí", "Quizá", "No") sobre si compensa ir a la estación.
 * **Exportación de informes:** Generación de PDF con el estado actual de la estación.

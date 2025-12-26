@@ -34,11 +34,11 @@ El proyecto sigue el patrón de arquitectura **MVVM (Model - View - ViewModel)**
 
 1.  **Gráfico de Barras Horizontal (Pantalla Principal):**
     * *Tipo:* Ranking / Leaderboard.
-    * *Justificación:* Se eligió un diseño horizontal para permitir la lectura completa de los nombres de las estaciones (que suelen ser largos) sin cortarlos. Permite al usuario identificar rápidamente dónde hay mayor disponibilidad de bicicletas en toda la red.
+    * *Por que:* Se eligió un diseño horizontal para permitir la lectura completa de los nombres de las estaciones (que suelen ser largos) sin cortarlos. Permite al usuario identificar rápidamente dónde hay mayor disponibilidad de bicicletas en toda la red.
 
 2.  **Gráfico de Anillo (Detalle de Estación):**
-    * *Tipo:* Pie Chart / Donut.
-    * *Justificación:* Al ver una estación concreta, lo importante es la proporción "Partes de un todo". El usuario necesita ver de un golpe de vista la relación entre bicis disponibles (mecánicas/eléctricas) y huecos libres para saber si podrá coger una bici o aparcarla.
+    * *Tipo:* Donut.
+    * *Por que:* Al ver una estación concreta, lo importante es la proporción "Partes de un todo". El usuario necesita ver de un golpe de vista la relación entre bicis disponibles (mecánicas/eléctricas) y huecos libres para saber si podrá coger una bici o aparcarla.
 
 ##  Capturas de Pantalla
 

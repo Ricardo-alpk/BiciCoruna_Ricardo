@@ -44,5 +44,7 @@ El proyecto sigue el patrón de arquitectura **MVVM (Model - View - ViewModel)**
 
 ![Pantalla Principal](screenshots/pantallaprincipal.png)
 * Pantalla Principal
+![Estacion](screenshots/detalleestacion.png)
 * Detalle de Estación
+![Generar PDF](screenshots/pdfgenerado.png)
 * PDF Generado

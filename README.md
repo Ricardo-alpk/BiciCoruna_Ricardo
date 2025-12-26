@@ -44,6 +44,6 @@ El proyecto sigue el patrón de arquitectura **MVVM (Model - View - ViewModel)**
 
 (Aquí puedes insertar las imágenes que has ido capturando. Crea una carpeta llamada 'screenshots' en tu proyecto y guárdalas ahí).
 
-* Pantalla Principal (screenshots/pantallaprincipal.png)
+* Pantalla Principal
 * Detalle de Estación
 * PDF Generado

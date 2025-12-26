@@ -43,5 +43,6 @@ class MyApp extends StatelessWidget {
 }
 
 //commit desde vscode
+//subi una cap de pantalla
 
      
